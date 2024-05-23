@@ -1,0 +1,7 @@
+Визуализация данных
+
+pandas as pd
+numpy as np
+matplotlib.pyplot as plt
+matplotlib.dates as mdates
+seaborn as sns
